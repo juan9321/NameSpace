@@ -1,0 +1,16 @@
+{
+    "name": "juan/namespace",
+    "autoload": {
+        "psr-4": {
+            "Extends\\": "extends/",
+            "Implements\\": "implements/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juan farias",
+            "email": "juanfarias@gmail.com"
+        }
+    ],
+    "require": {}
+}
